@@ -6,7 +6,7 @@
     "@babel/core": "*",
     "@babel/preset-env": "*",
     "babel-jest": "*",
-    "jest": "*"
+    "jest": "^27.5.1"
   },
   "scripts": {
     "test": "jest"
